@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">p47S21202202sgm</string>
+    <string name="suma">suma</string>
+    <string name="calculadora">calculadora</string>
+    <string name="resta">resta</string>
+    <string name="division">division</string>
+    <string name="multiplicar">multiplicar</string>
+    <string name="operacion_resta">operacion resta</string>
+    <string name="sum">suma</string>
+    <string name="operacion_suma">OPERACION SUMA</string>
+    <string name="regresar">regresar</string>
+    <string name="ingrese_numero2">ingrese numero2</string>
+    <string name="resultado">resultado</string>
+    <string name="ingrese_numero_1">ingrese numero 1</string>
+</resources>
